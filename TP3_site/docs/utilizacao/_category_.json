@@ -1,0 +1,8 @@
+{
+  "label": "Guia de utilização",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Como usar cada parte do BiblioConsole."
+  }
+}

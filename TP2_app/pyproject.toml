@@ -1,0 +1,15 @@
+[project]
+name = "biblioconsole"
+version = "1.0.0"
+description = "Aplicação de consola para gestão de uma biblioteca (UC Ambientes de Desenvolvimento Colaborativo)"
+requires-python = ">=3.10"
+
+[project.scripts]
+biblioconsole = "biblioteca.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

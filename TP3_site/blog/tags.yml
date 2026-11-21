@@ -1,0 +1,14 @@
+scrum:
+  label: Scrum
+  permalink: /scrum
+  description: Metodologia Agile usada no projeto
+
+git:
+  label: Git
+  permalink: /git
+  description: Controlo de versões e fluxo de trabalho
+
+python:
+  label: Python
+  permalink: /python
+  description: Desenvolvimento da aplicação
