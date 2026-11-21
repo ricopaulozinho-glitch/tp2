@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkt_p_3_site=self.webpackChunkt_p_3_site||[]).push([["220"],{1912(s){s.exports=JSON.parse('{"blogBasePath":"/biblioconsole/blog","blogTitle":"Blog","authorsListPath":"/biblioconsole/blog/authors"}')}}]);

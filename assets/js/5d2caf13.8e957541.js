@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkt_p_3_site=self.webpackChunkt_p_3_site||[]).push([["553"],{3377(t){t.exports=JSON.parse('{"authors":[{"name":"Equipa BiblioConsole","title":"Estudantes de Engenharia Inform\xe1tica","url":"https://github.com/grupo-ade","imageURL":"https://github.com/github.png","key":"equipa","page":null,"count":2}]}')}}]);

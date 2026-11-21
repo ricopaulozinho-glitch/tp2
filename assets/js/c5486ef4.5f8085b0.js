@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkt_p_3_site=self.webpackChunkt_p_3_site||[]).push([["419"],{3398(e){e.exports=JSON.parse('{"metadata":{"permalink":"/biblioconsole/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

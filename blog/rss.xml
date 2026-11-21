@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>BiblioConsole Blog</title>
+        <link>https://exemplo.github.io/biblioconsole/blog</link>
+        <description>BiblioConsole Blog</description>
+        <lastBuildDate>Thu, 15 Oct 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>pt</language>
+        <item>
+            <title><![CDATA[O nosso fluxo de trabalho com Git]]></title>
+            <link>https://exemplo.github.io/biblioconsole/blog/fluxo-git</link>
+            <guid>https://exemplo.github.io/biblioconsole/blog/fluxo-git</guid>
+            <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Adotámos ramos feature/ a partir de develop, com pull requests* revistos por um colega.]]></description>
+            <content:encoded><![CDATA[<p>Adotámos ramos <code>feature/*</code> a partir de <code>develop</code>, com <em>pull requests</em> revistos por um colega.</p>
+<!-- -->
+<div class="language-bash codeBlockContainer_Ckt0 theme-code-block" style="--prism-color:#393A34;--prism-background-color:#f6f8fa"><div class="codeBlockContent_QJqH"><pre tabindex="0" class="prism-code language-bash codeBlock_bY9V thin-scrollbar" style="color:#393A34;background-color:#f6f8fa"><code class="codeBlockLines_e6Vv"><div class="token-line" style="color:#393A34"><span class="token function" style="color:#d73a49">git</span><span class="token plain"> checkout </span><span class="token parameter variable" style="color:#36acaa">-b</span><span class="token plain"> feature/US01-adicionar-livro develop</span><br></div></code></pre></div></div>
+<p>Cada ramo corresponde a uma user story e cada commit segue a convenção <code>tipo(US##): descrição</code>.</p>]]></content:encoded>
+            <category>Git</category>
+        </item>
+        <item>
+            <title><![CDATA[Arranque do projeto BiblioConsole]]></title>
+            <link>https://exemplo.github.io/biblioconsole/blog/arranque-do-projeto</link>
+            <guid>https://exemplo.github.io/biblioconsole/blog/arranque-do-projeto</guid>
+            <pubDate>Thu, 01 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Começámos o projeto com a construção do backlog do produto: 57 user stories em 10 épicos.]]></description>
+            <content:encoded><![CDATA[<p>Começámos o projeto com a construção do <strong>backlog do produto</strong>: 57 user stories em 10 épicos.</p>
+<!-- -->
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="o-que-decidimos">O que decidimos<a href="https://exemplo.github.io/biblioconsole/blog/arranque-do-projeto#o-que-decidimos" class="hash-link" aria-label="Link direto para O que decidimos" title="Link direto para O que decidimos" translate="no">​</a></h2>
+<ul>
+<li class="">Tema: gestão de biblioteca</li>
+<li class="">Aplicação apenas de <strong>consola</strong>, em Python</li>
+<li class="">Metodologia <strong>Scrum</strong> com sprints de duas semanas</li>
+</ul>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="lições-do-sprint-0">Lições do Sprint 0<a href="https://exemplo.github.io/biblioconsole/blog/arranque-do-projeto#li%C3%A7%C3%B5es-do-sprint-0" class="hash-link" aria-label="Link direto para Lições do Sprint 0" title="Link direto para Lições do Sprint 0" translate="no">​</a></h2>
+<p>Escrever critérios de aceitação logo na criação das histórias poupou muitas dúvidas mais tarde.</p>]]></content:encoded>
+            <category>Scrum</category>
+        </item>
+    </channel>
+</rss>
