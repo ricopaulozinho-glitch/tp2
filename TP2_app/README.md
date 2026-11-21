@@ -81,7 +81,7 @@ Ver [docs/WORKFLOW_GIT.md](docs/WORKFLOW_GIT.md) para o fluxo de ramos, convenç
 |---|---|---|
 | Micael gonçalves | 94122 | Scrum Master |
 | Gabriel Parreira | 94127| Product Owner |
-| Danny Cortez | 94141| Developer |
+| Danny Cortez | 94880| Developer |
 
 ## Licença
 
